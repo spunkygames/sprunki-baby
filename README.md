@@ -1,6 +1,6 @@
 # Sprunki Baby
 
-Sprunki Baby is a free online music game designed for young children, featuring adorable babies and playful sounds. Introduce your little ones to the joy of music creation with this fun and interactive experience.  Play Sprunki Baby Now: [https://spunky.games/sprunki-baby](https://spunky.games/sprunki-baby)
+Sprunki Baby is a free online music game designed for young children, featuring adorable babies and playful sounds. Introduce your little ones to the joy of music creation with this fun and interactive experience.  Play Sprunki Baby Now: [sprunki-baby](https://spunky.games/sprunki-baby)
 
 ---
 
@@ -21,7 +21,7 @@ Sprunki Baby is a browser-based music game created by Spunky Games, specifically
 
 ## How to Play Sprunki Baby
 
-1. **Start the Game:** Visit [https://spunky.games/sprunki-baby](https://spunky.games/sprunki-baby) in your web browser.
+1. **Start the Game:** Visit [sprunki-baby](https://spunky.games/sprunki-baby) in your web browser.
 2. **Interact with the Babies:** Click or tap on the animated babies to activate different sounds and musical notes.
 3. **Create Simple Melodies:** Experiment by clicking on the babies in different sequences to create your own little tunes and rhythms.
 4. **Explore Different Sounds:** Discover a range of sounds, from baby giggles and babble to simple instrument sounds and melodies.
@@ -64,4 +64,4 @@ Sprunki Baby is a browser-based music game created by Spunky Games, specifically
 
 ---
 
-Introduce your little ones to the joy of music with Sprunki Baby!  Play Now: [https://spunky.games/sprunki-baby](https://spunky.games/sprunki-baby)
+Introduce your little ones to the joy of music with Sprunki Baby!  Play Now: [sprunki-baby](https://spunky.games/sprunki-baby)
